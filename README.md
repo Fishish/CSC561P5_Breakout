@@ -4,7 +4,7 @@
 A Breakout game made by Unity built with WebGL.
 The player can move the paddle left and right to reflect the ball. Bricks will disappear when the ball strikes them. When all bricks disappear, the game ends.
 In order to quickly achieve the end of the game, the player can enter the cheat code “iLoveCSC561” in the upper right corner.
-
+![pj](https://user-images.githubusercontent.com/60548996/229254902-3f619e39-eff8-45e7-8f23-b3e9d146273a.JPG)
 
 ## How To Start
 There are three ways to run the game.
